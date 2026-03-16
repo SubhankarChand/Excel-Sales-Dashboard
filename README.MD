@@ -9,7 +9,7 @@ The goal of this project is to demonstrate data analysis, visualization, and das
 ---
 
 ## Dashboard Preview
-(Add dashboard screenshot here)
+
 
 Example:
 ![Dashboard](dashboard/Dashboard.png)
